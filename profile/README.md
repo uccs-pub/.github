@@ -1,29 +1,46 @@
-Critoracy Web develops and maintains infrastructure, platforms, and experimental web projects across technical and academic domains.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/uccs-pub/.github/main/profile/stag-green.png" width="120">
+</p>
 
-### Focus
+<h2 align="center">Critoracy Web</h2>
 
-- Open web infrastructure
-- Self-hosted platforms
-- Research and academic initiatives
-- Developer tooling
-- Long-term maintainability
-- Free and open systems
+<p align="center">
+  Web solutions managed by the Critoracy Project.
+</p>
 
-<table>
+<p align="center">
+  <img src="https://img.shields.io/badge/status-active-1b1b1b?style=flat-square">
+  <img src="https://img.shields.io/badge/focus-open%20systems-1b1b1b?style=flat-square">
+  <img src="https://img.shields.io/badge/license-free%20software-1b1b1b?style=flat-square">
+</p>
+
+<br>
+
+<table align="center">
 <tr>
-<td>
+<td width="33%" valign="top">
 
 ### Infrastructure
-- Project A
-- Project B
+Self-hosted services, deployment systems, and platform tooling.
 
 </td>
-<td>
+<td width="33%" valign="top">
 
 ### Research
-- Project C
-- Project D
+Academic, experimental, and long-term technical initiatives.
+
+</td>
+<td width="33%" valign="top">
+
+### Development
+Web platforms, developer workflows, and open tooling.
 
 </td>
 </tr>
 </table>
+
+<br>
+
+<p align="center">
+  <sub>free and open systems</sub>
+</p>

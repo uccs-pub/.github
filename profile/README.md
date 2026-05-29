@@ -1,8 +1,6 @@
-# Critoracy Web
-
 Critoracy Web develops and maintains infrastructure, platforms, and experimental web projects across technical and academic domains.
 
-## Focus
+### Focus
 
 - Open web infrastructure
 - Self-hosted platforms

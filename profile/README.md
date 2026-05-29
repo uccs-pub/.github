@@ -1,7 +1,12 @@
-# Cine este UCCS?
+# Critoracy Web
 
-Unde Cuvintele Capătă Sens este un proiect editorial independent care urmărește creșterea clarității în spațiul public.
+Critoracy Web develops and maintains infrastructure, platforms, and experimental web projects across technical and academic domains.
 
-Publicăm analize, eseuri și texte literare care explică fenomene politice, sociale și culturale. Lucram fără isterie, fără cultul personalității și fără dezumanizare.
+## Focus
 
-Ne adresăm cititorilor care nu caută doar opinii, ci instrumente de înțelegere.
+- Open web infrastructure
+- Self-hosted platforms
+- Research and academic initiatives
+- Developer tooling
+- Long-term maintainability
+- Free and open systems

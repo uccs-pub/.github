@@ -8,3 +8,22 @@ Critoracy Web develops and maintains infrastructure, platforms, and experimental
 - Developer tooling
 - Long-term maintainability
 - Free and open systems
+
+<table>
+<tr>
+<td>
+
+### Infrastructure
+- Project A
+- Project B
+
+</td>
+<td>
+
+### Research
+- Project C
+- Project D
+
+</td>
+</tr>
+</table>

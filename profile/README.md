@@ -1,11 +1,5 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/273563952?s=200&v=4)" width="120">
-</p>
-
-<h2 align="center">Critoracy Web</h2>
-
-<p align="center">
-  🌐 Web solutions managed by the Critoracy Project.
+  <img src="https://raw.githubusercontent.com/uccs-pub/.github/refs/heads/main/profile/banner.png">
 </p>
 
 <p align="center">
@@ -15,7 +9,3 @@
 </p>
 
 <br>
-
-<p align="center">
-  <sub>🌑 free and open systems</sub>
-</p>

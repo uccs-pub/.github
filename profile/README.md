@@ -1,45 +1,23 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/uccs-pub/.github/refs/heads/main/profile/banner.png" alt="Banner">
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/status-active-1b1b1b?style=flat-square">
-  <img src="https://img.shields.io/badge/focus-open%20systems-1b1b1b?style=flat-square">
-  <img src="https://img.shields.io/badge/license-free%20software-1b1b1b?style=flat-square">
-</p>
-
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 2rem; margin: 2rem 0;">
-  
-  <!-- LEFT COLUMN -->
-  <div style="background: #f6f8fa; border-radius: 16px; padding: 1.5rem; box-shadow: 0 2px 8px rgba(0,0,0,0.05);">
-    <h3>📖 About us</h3>
-    <p>We are a community focused on open systems, free software, and transparent collaboration. Our goal is to build tools that empower users and respect their freedom.</p>
-    <p>🔹 <strong>Mission</strong> – Promote open standards and ethical technology.<br>
-    🔹 <strong>Values</strong> – Transparency, inclusivity, and sustainability.</p>
-    <hr style="margin: 1rem 0;">
-    <p>📫 <strong>Contact</strong><br>
-    Matrix: <code>#uccs-pub:matrix.org</code><br>
-    Mail: <a href="mailto:hello@example.org">hello@example.org</a></p>
-  </div>
-
-  <!-- RIGHT COLUMN -->
-  <div style="background: #f6f8fa; border-radius: 16px; padding: 1.5rem; box-shadow: 0 2px 8px rgba(0,0,0,0.05);">
-    <h3>🚀 Key projects</h3>
-    <ul style="margin-bottom: 1rem;">
-      <li><strong><a href="https://github.com/uccs-pub/project-a">Project A</a></strong> – Decentralised sync engine</li>
-      <li><strong><a href="https://github.com/uccs-pub/project-b">Project B</a></strong> – Lightweight UI library</li>
-      <li><strong><a href="https://github.com/uccs-pub/project-c">Project C</a></strong> – Open hardware designs</li>
-    </ul>
-    <h3>🤝 Get involved</h3>
-    <p>Contributions welcome! Check our <a href="https://github.com/uccs-pub/.github/blob/main/CONTRIBUTING.md">contributing guide</a> or join the chat.</p>
-    <p>⭐ <strong>Recent activity</strong><br>
-    <em>– Released v2.0 of Project A<br>
-    – Started design sprint for Project C</em></p>
-  </div>
-
-</div>
-
-<!-- Optional footer (full‑width) -->
-<p align="center" style="color: #586069; font-size: 0.85rem; margin-top: 2rem;">
-  🧡 Free software forever – all our work is under copyleft licenses.
-</p>
+<!-- TWO COLUMN LAYOUT (BORDERLESS TABLE) -->
+<table border="0" cellspacing="0" cellpadding="0" width="100%" style="border: none; background: transparent;">
+  <tr>
+    <td width="55%" valign="top" style="padding-right: 20px;">
+      <h3>About</h3>
+      <p>Critoracy is an independent project dedicated to publishing ideas, developing knowledge, and exploring questions worth taking seriously. Critoracy Web is the technical arm: websites, themes, applications, and digital infrastructure released as open‑source software whenever possible.</p>
+      <p>The goal is simple: build tools that are useful enough to stand on their own, while supporting a broader ecosystem of writing, research, and public knowledge. This is not a commercial venture – just a persistent attempt to make the digital world more thoughtful and better tooled.</p>
+      <h3>Philosophy</h3>
+      <p>Technology should serve ideas, not the other way around. Ideas need durable infrastructure, and infrastructure needs open tools. We build small, honest, and replaceable software – one repository, one theme, one published idea at a time.</p>
+    </td>
+    <td width="45%" valign="top" style="padding-left: 20px;">
+      <p align="center">
+        <img src="https://raw.githubusercontent.com/uccs-pub/.github/refs/heads/main/profile/banner.png">
+      </p>
+      <h3>Repositories</h3>
+      <ul>
+        <li><strong><a href="https://github.com/uccs-pub/academ">Academ</a></strong> – Hugo theme for editorial, academic, and institutional websites</li>
+        <li><strong><a href="https://github.com/uccs-pub/uccs">UCCS</a></strong> – <em>Unde Cuvintele Capătă Sens</em> platform and publishing infrastructure</li>
+        <li><strong><a href="https://github.com/uccs-pub/critoracy">Critoracy</a></strong> – Accademic source and landing page</li>
+      </ul>
+    </td>
+  </tr>
+</table>

@@ -1,10 +1,8 @@
-## ❀ About
-
 Critoracy is an independent project focused on publishing ideas, developing knowledge, and exploring questions worth taking seriously.
 
 Critoracy Web is the technical layer: websites, themes, applications, and open-source infrastructure.
 
-## 🛠 What We Build
+### 🛠 What We Build
 
 - Open-source publishing tools
 - For thinkers, writers, researchers, and educators
@@ -12,7 +10,7 @@ Critoracy Web is the technical layer: websites, themes, applications, and open-s
 
 The goal is to make publishing knowledge online easier and more durable, without unnecessary technical barriers.
 
-## ⚙ Philosophy
+### ⚙ Philosophy
 
 Technology should serve ideas, not the other way around. We build small, modular, and replaceable systems: one repository, one idea, one purpose.
 

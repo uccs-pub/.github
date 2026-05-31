@@ -1,18 +1,22 @@
-## 📖 About
+## ❀ About
 
-Critoracy is an independent project dedicated to publishing ideas, developing knowledge, and exploring questions worth taking seriously.
+Critoracy is an independent project focused on publishing ideas, developing knowledge, and exploring questions worth taking seriously.
 
-Critoracy Web is its technical arm: websites, themes, applications, and digital infrastructure released as open-source software whenever possible.
+Critoracy Web is the technical layer: websites, themes, applications, and open-source infrastructure.
 
-The goal is simple: build tools that are useful enough to stand on their own while supporting a broader ecosystem of writing, research, and public knowledge.
+## 🛠 What We Build
 
-This is not a commercial venture. Just a persistent attempt to make the digital world more thoughtful and better tooled.
+- Open-source publishing tools
+- For thinkers, writers, researchers, and educators
+- Simple, durable, accessible publishing systems
 
-## ⚙️ Philosophy
+The goal is to make publishing knowledge online easier and more durable, without unnecessary technical barriers.
+
+## ⚙ Philosophy
 
 Technology should serve ideas, not the other way around.
 
-Ideas need durable infrastructure, and infrastructure needs open tools. We build small, honest, and replaceable software: one repository, one theme, one published idea at a time.
+We build small, modular, and replaceable systems: one repository, one idea, one purpose.
 
 <br>
 

@@ -14,9 +14,7 @@ The goal is to make publishing knowledge online easier and more durable, without
 
 ## ⚙ Philosophy
 
-Technology should serve ideas, not the other way around.
-
-We build small, modular, and replaceable systems: one repository, one idea, one purpose.
+Technology should serve ideas, not the other way around. We build small, modular, and replaceable systems: one repository, one idea, one purpose.
 
 <br>
 

@@ -1,6 +1,4 @@
-Critoracy is an independent project focused on publishing ideas, developing knowledge, and exploring questions worth taking seriously.
-
-Critoracy Web is the technical layer: websites, themes, applications, and open-source infrastructure.
+Critoracy is an independent project focused on publishing ideas, developing knowledge, and exploring questions worth taking seriously. We also have a technical layer for our websites, themes, applications, and open-source infrastructure.
 
 ### 🛠 What We Build
 
